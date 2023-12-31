@@ -9,7 +9,7 @@ __version__ = "0.0.1"
 REPO_NAME = "Mlops"
 PKG_NAME= "database"
 AUTHOR_USER_NAME = "kesavakumar2003"
-AUTHOR_EMAIL = "Kesava.mattupalli@gmail.com"
+AUTHOR_EMAIL = "kesava.21bce9782@vitapstudent.ac.in"
 
 setup(
     name=PKG_NAME,
